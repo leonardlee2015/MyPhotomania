@@ -21,6 +21,7 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    NSLog(@"adfa");
     // Dispose of any resources that can be recreated.
 }
 
